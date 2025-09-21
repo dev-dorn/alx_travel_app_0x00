@@ -12,6 +12,7 @@ django-environ==0.12.0
 djangorestframework==3.16.1
 dotenv==0.9.9
 drf-yasg==1.21.10
+Faker==37.8.0
 inflection==0.5.1
 kombu==5.5.4
 mysqlclient==2.2.7
